@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.search-bar {
+  text-align: center;
+  margin: auto;
+}
+
+li {
+  list-style: none;
+}
